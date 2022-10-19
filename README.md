@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kasun Kodagoda</h1>
+<h1 align="center">Hello 👋, I'm Kasun Kodagoda</h1>
 <h3 align="center">Technology enthusiasts who love Azure and DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasunkv&label=Profile%20views&color=0e75b6&style=flat" alt="kasunkv" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasunkv" alt="kasunkv" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/kasun_kodagoda" target="blank"><img src="https://img.shields.io/twitter/follow/kasun_kodagoda?logo=twitter&style=for-the-badge" alt="kasun_kodagoda" /></a> </p>
 
 - 🌱 I’m currently learning **React, Redux, Next.js, AWS**
