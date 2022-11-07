@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasunkv&label=Profile%20views&color=0e75b6&style=flat" alt="kasunkv" /> </p>
 <p align="left"> <a href="https://twitter.com/kasun_kodagoda" target="blank"><img src="https://img.shields.io/twitter/follow/kasun_kodagoda?logo=twitter&style=for-the-badge" alt="kasun_kodagoda" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux, Next.js, AWS**
+- 🌱 I’m currently learning **React, Redux, Next.js, AWS, WPF, XAML**
 
 - 👨‍💻 All of my projects are available at [https://me.kasunkodagoda.com](https://me.kasunkodagoda.com)
 
