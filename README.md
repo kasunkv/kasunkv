@@ -1,18 +1,18 @@
 <h1 align="center">Hello 👋, I'm Kasun Kodagoda</h1>
-<h3 align="center">Technology enthusiasts who loves Azure and DevOps</h3>
+<h3 align="center">Technology enthusiasts who loves .Net, Azure and DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasunkv&label=Profile%20views&color=0e75b6&style=flat" alt="kasunkv" /> </p>
 <p align="left"> <a href="https://twitter.com/kasun_kodagoda" target="blank"><img src="https://img.shields.io/twitter/follow/kasun_kodagoda?logo=twitter&style=for-the-badge" alt="kasun_kodagoda" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux, Next.js, AWS, WPF, XAML**
+- 🌱 I’m currently learning **React, Redux, Next.js, NestJs, Terraform**
 
-- 👨‍💻 All of my projects are available at [https://me.kasunkodagoda.com](https://me.kasunkodagoda.com)
+- 👨‍💻 All of my projects are available at [https://kasunkodagoda.com](https://kasunkodagoda.com)
 
 - 📝 I regularly write articles on [https://k2vacademy.com](https://k2vacademy.com)
 
 - 💬 Ask me about **Azure, Azure DevOps, DevOps, DevSecOps, .Net Core**
 
-- 📫 How to reach me **me@kasunkodagoda.com**
+- 📫 How to reach me **kasun.kodagoda@k2vsoftware.com**
 
 - ⚡ Fun fact **I like working from home.. 😅**
 
